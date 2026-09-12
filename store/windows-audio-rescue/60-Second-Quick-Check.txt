@@ -1,0 +1,30 @@
+MARC OS WINDOWS AUDIO RESCUE — 60-SECOND CHECK
+
+1. Settings > System > Sound
+   - Correct Output selected?
+   - Correct Input/microphone present and selected?
+
+2. Settings > Privacy & security > Microphone
+   - Microphone access ON
+   - Let apps access your microphone ON
+   - Let desktop apps access your microphone ON
+
+3. Win + R > mmsys.cpl > Recording
+   - Right-click blank area
+   - Show Disabled Devices
+   - Show Disconnected Devices
+   - Enable the correct microphone if shown
+
+4. Device Manager
+   - Audio inputs and outputs
+   - Sound, video and game controllers
+   - Action > Scan for hardware changes
+
+5. If speakers work but microphone is missing:
+   - Focus on privacy settings, disabled recording devices, OEM audio/chipset drivers,
+     and device re-detection.
+
+6. Use the included Diagnose launcher to generate a report.
+   Use Safe Repair to restart Windows audio services and rescan hardware.
+
+Never download drivers from random driver-updater websites.
