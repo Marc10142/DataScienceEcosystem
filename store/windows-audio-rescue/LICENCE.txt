@@ -1,0 +1,10 @@
+Marc OS Digital — Personal Use Licence
+
+You may use this toolkit on computers you own or are authorised to support.
+You may keep backup copies for your own use.
+
+You may not resell, repackage, or redistribute this toolkit as your own product.
+
+The toolkit is supplied as a troubleshooting aid without a guarantee that it will repair every audio problem. You remain responsible for changes you make outside the included safe-repair functions.
+
+Version 1.0
